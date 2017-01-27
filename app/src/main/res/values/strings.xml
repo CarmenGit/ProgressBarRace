@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProgressBarRace</string>
+    <array name="progressBarIds">
+        <item>@id/progressBar0</item>
+        <item>@id/progressBar1</item>
+        <item>@id/progressBar2</item>
+        <item>@id/progressBar3</item>
+        <item>@id/progressBar4</item>
+        <item>@id/progressBar5</item>
+        <item>@id/progressBar6</item>
+        <item>@id/progressBar7</item>
+        <item>@id/progressBar8</item>
+        <item>@id/progressBar9</item>
+    </array>
+    <integer name="pBarMax">300</integer>
+</resources>
